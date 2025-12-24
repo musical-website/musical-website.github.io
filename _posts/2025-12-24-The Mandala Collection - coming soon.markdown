@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My latest album is coming soon"
+title: "The Mandala Collection - coming soon"
 date: 2024-12-24 09:00:00 +1100
 categories: album
 image: /img/20251217_img_4.jpeg
