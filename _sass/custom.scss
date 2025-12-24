@@ -1,7 +1,7 @@
 .hero-circle {
   position: relative;
-  width: 260px;
-  height: 260px;
+  width: min(260px, 72vw);
+  height: min(260px, 72vw);
   margin: 2rem auto;
 }
 
@@ -17,7 +17,7 @@
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.35);
+  background: rgba(0, 0, 0, 0.32); /* slightly softer overlay */
   border-radius: 50%;
 }
 
@@ -36,12 +36,26 @@
 
 .hero-text h1 {
   margin: 0;
-  font-size: 2rem;
-  letter-spacing: 0.05em;
+  font-size: clamp(1.6rem, 4.5vw, 2rem);
+  letter-spacing: 0.06em;
 }
 
 .hero-text p {
   margin-top: 0.5rem;
-  font-size: 0.9rem;
+  font-size: clamp(0.8rem, 3vw, 0.95rem);
   opacity: 0.9;
+}
+
+/* Mobile fine-tuning (Galaxy S24, iPhone, etc.) */
+@media (max-width: 480px) {
+  .hero-circle {
+    margin: 1.5rem auto;
+  }
+}
+
+/* Disable hover zoom on touch devices */
+@media (hover: none) {
+  .hero-circle:hover img {
+    transform: none;
+  }
 }
