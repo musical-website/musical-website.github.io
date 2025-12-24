@@ -9,6 +9,8 @@ categories: Album
 
 <h4 class="album-availability">Now available on Spotify</h4>
 
+<h5>Preview songs by clicking in the player below</h5>
+
 <iframe
   data-testid="embed-iframe"
   style="border-radius:12px"
