@@ -27,6 +27,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: Musical_Maya
 #github_username:  Musical_Maya
 
+rss: false
+
 # Build settings
 theme: minima
 #remote_theme: pages-themes/slate@v0.2.0
