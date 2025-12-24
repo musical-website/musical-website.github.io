@@ -3,15 +3,20 @@ layout: post
 title: "My latest album is coming soon"
 date: 2024-12-24 09:00:00 +1100
 categories: album
+image: /img/20251217_img_4.jpeg
 ---
 
 # A new chapter is unfolding.
 
-My latest album is on its way — a collection of songs shaped by experience, feeling, and story.
+My latest album, **The Mandala Collection**, is well underway — a body of work shaped by lived experience, reflection, and story.
 
-I’m putting the finishing touches on it now, and I can’t wait to share it with you soon.
+I’m putting the final touches on it now, and I can’t wait to share it with you very soon.
 
-<img
-  src="{{ '/img/20251217_img_2.jpeg' | relative_url }}"
-  alt="Album artwork preview"
-  class="post-image">
+
+{% if page.image %}
+  <img
+    src="{{ page.image | relative_url }}"
+    alt="{{ page.title }}"
+    class="post-image hero-image">
+
+{% endif %}

@@ -21,7 +21,7 @@
 title: Musical Maya
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Musical Maya's personal website and blog.
+  Maya's personal website and blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://musical-maya.me" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: Musical_Maya
