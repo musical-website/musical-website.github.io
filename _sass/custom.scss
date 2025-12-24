@@ -59,3 +59,31 @@
     transform: none;
   }
 }
+
+.post-image {
+  max-width: 420px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 2rem auto;
+  border-radius: 12px;
+}
+
+
+/* Album */
+.album-availability {
+  text-align: center;
+  margin-bottom: 1.5rem;
+  font-weight: 500;
+}
+
+.album-link {
+  text-align: center;
+  margin-top: 2.5rem;
+  font-size: 1.1rem;
+}
+
+.album-link a {
+  text-decoration: none;
+  font-weight: 600;
+}
