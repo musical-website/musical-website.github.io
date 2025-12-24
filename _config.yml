@@ -23,7 +23,7 @@ title: Musical Maya
 description: >- # this means to ignore newlines until "baseurl:"
   Musical Maya's personal website and blog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://musical-maya.me" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: Musical_Maya
 #github_username:  Musical_Maya
 

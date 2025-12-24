@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Discover my debut album"
-date:   2024-11-21 09:00:00 +1100
-categories: New Album
+date: 2024-11-21 09:00:00 +1100
+categories: Album
 ---
 
 
