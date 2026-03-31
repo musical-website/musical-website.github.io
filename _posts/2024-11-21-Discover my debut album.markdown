@@ -14,7 +14,7 @@ categories: Album
 <iframe
   data-testid="embed-iframe"
   style="border-radius:12px"
-  src="https://open.spotify.com/embed/album/701I0F0eExvuKcb2wJX4o7?utm_source=generator&theme=0"
+  src="https://open.spotify.com/album/2bwcoDEqv7Im7DmPlakkhz?si=KzpmjzgLQEyvACxdsngZXQ"
   width="100%"
   height="1052"
   frameborder="0"
