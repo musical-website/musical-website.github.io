@@ -24,7 +24,7 @@ categories: Album
 
 <p class="album-link">
   <a
-    href="https://open.spotify.com/album/701I0F0eExvuKcb2wJX4o7?si=24qZdA7RQ4CP-_VVa99i1w"
+    href="https://open.spotify.com/album/2bwcoDEqv7Im7DmPlakkhz?si=KzpmjzgLQEyvACxdsngZXQ"
     target="_blank"
     rel="noopener">
     Listen on Spotify →
