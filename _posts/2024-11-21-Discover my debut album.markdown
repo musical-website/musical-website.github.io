@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Discover my debut album"
+title:  Discover my debut album 'MAYA'
 date: 2024-11-21 09:00:00 +1100
 categories: Album
 ---
